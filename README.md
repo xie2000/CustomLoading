@@ -7,6 +7,4 @@ CustomLoading For Android
 * 此Demo的CSDN博客地址：http://blog.csdn.net/xiechengfa/article/details/41733557<br>
 
 
-[我的博客](http://blog.csdn.net/xiechengfa "test")
-
 ![](http://img.blog.csdn.net/20141204235715970?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQveGllY2hlbmdmYQ==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/Center)
