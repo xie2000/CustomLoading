@@ -1,32 +1,8 @@
 CustomLoading For Android
-=============
-
-## Collect Awesome loadings in Android
-
-You can get and install the apk in the apkfile folder.
-
-![Sample image](https://raw.github.com/stormzhang/CustomLoading/master/snap.jpg)
-
-## 关于我
-
-[见这里](http://stormzhang.github.io/about.html)
-
-License
 ============
+这个Demo是在Android大神stormzhang的开源代码基础加了一个loading效果，各种loading效果都整合在一起并分享给大家。<br>
+stormzhang的github地址：https://github.com/stormzhang<br>
 
-    Copyright 2014 Storm Zhang
+csdn博客地址：http://blog.csdn.net/xiechengfa/article/details/41733557
 
-	Licensed under the Apache License, Version 2.0 (the "License");
-	you may not use this file except in compliance with the License.
-	You may obtain a copy of the License at
-
-     http://www.apache.org/licenses/LICENSE-2.0
-
-	Unless required by applicable law or agreed to in writing, software
-	distributed under the License is distributed on an "AS IS" BASIS,
-	WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-	See the License for the specific language governing permissions and
-	limitations under the License.
-
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/stormzhang/customloading/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
-
+![](http://img.blog.csdn.net/20141204235715970?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQveGllY2hlbmdmYQ==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/Center)
